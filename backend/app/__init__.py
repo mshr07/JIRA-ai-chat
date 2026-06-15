@@ -1,1 +1,1 @@
-"""FastAPI backend for the Jira Ticket RAG Chatbot."""
+"""FastAPI backend for JIRA-AI-ChatBot."""

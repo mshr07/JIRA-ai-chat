@@ -1,1 +1,1 @@
-"""API routes for the Jira Ticket RAG Chatbot."""
+"""API routes for JIRA-AI-ChatBot."""
